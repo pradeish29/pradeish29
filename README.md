@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Pradeish Misara 
 
-![Profile Visits](https://img.shields.io/endpoint?url=https://api.example.com/profile-visits/<pradeish29>)
+![](https://komarev.com/ghpvc/?username=pradeish29)
 
 
 
