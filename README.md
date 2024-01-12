@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Pradeish Misara 
 
-![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=1000)
+![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=red)
 
 
 
