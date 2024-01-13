@@ -4,9 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
 
-- 🔭 I’m currently working on ... React js
-- 🌱 I’m currently learning ... Java programming
-- 💬 Ask me about ... Frontend dev and Problem Solving
+- 🔭 I’m currently working on React js
+- 🌱 I’m currently learning Java programming
+- 💬 Ask me about Frontend dev and Problem Solving
 - 📫 How to reach me: pradeishmisara29@gmail.com
  <!--
 - 😄 Pronouns: ...
