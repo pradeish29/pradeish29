@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋 This is Pradeish Misara </h1>
 
-<div align=”center”>![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)</div>
+![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
 ---
 - 🔭 I’m currently working on React js
