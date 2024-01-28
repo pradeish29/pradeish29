@@ -34,11 +34,14 @@
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&bg_color=000000&color=ffffff&line=00ff00&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=blue-green" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=blue-green&langs_count=8&layout=compact" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=gotham" /></div>
 </div>
 
 <div style="display: flex; flex-direction: row;">
