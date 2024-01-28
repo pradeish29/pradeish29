@@ -34,5 +34,5 @@
 [![](https://visitcount.itsvg.in/api?id=pradeish29&icon=7&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&" alt="pradeish29" /></p>
 
