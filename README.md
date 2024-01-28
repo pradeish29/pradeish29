@@ -34,7 +34,7 @@
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=gotham&hide_border=false"/>
  &nbsp;
 &nbsp;
-<img style="height:120%; width: 50%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=nord&font=Jura" />
+<img style="height:120%; width: 45%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=nord&font=Jura" />
 </div>
 
 ---
