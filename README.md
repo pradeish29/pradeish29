@@ -41,7 +41,7 @@
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=gotham" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=donut" /></div>
 </div>
 
 <div style="display: flex; flex-direction: row;">
