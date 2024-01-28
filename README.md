@@ -33,7 +33,7 @@
 <img style="height: 75%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=donut" />
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=gotham&hide_border=false"/>
 
-<img style="height:120%; width: 45%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=nord&font=Jura" />
+<img style="height:100%; width: 45%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=nord&font=Jura" />
 </div>
 
 ---
