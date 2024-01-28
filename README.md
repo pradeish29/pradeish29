@@ -1,9 +1,9 @@
 
- ### Hi there 👋 This is Pradeish Misara 
+ #### Hi there 👋 This is Pradeish Misara 
 
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
-[![](https://visitcount.itsvg.in/api?id=pradeish29&icon=7&color=3)]
+
 - 🔭 I’m currently working on React js
 - 🌱 I’m currently learning Java programming
 - 💬 Ask me about Frontend dev and Problem Solving
