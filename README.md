@@ -1,9 +1,8 @@
 
 <h1 align="center"> Hi there 👋 This is Pradeish Misara </h1>
-<center>
+
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
-</center>
- <img src="(https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen"/>
+
 ---
 - 🔭 I’m currently working on React js
 - 🌱 I’m currently learning Java programming
@@ -39,10 +38,11 @@
 <img style="height:auto ; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github" />
 &nbsp;
 &nbsp;
-<img style="height: 75%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=donut" />
+<img style="height:auto; width: 40%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=dark&font=Jura" />
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=gotham&hide_border=false"/>
  &nbsp;
-<img style="height:auto; width: 40%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=dark&font=Jura" />
+<img style="height: 75%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=donut" />
+
 </div>
 
 ---
