@@ -1,9 +1,9 @@
 
- #### Hi there 👋 This is Pradeish Misara 
+<h1 align="center"> Hi there 👋 This is Pradeish Misara </h1>
 
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
-
+---
 - 🔭 I’m currently working on React js
 - 🌱 I’m currently learning Java programming
 - 💬 Ask me about Frontend dev and Problem Solving
@@ -14,7 +14,7 @@
 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 -->
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pradeish-misara-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeish-misara-r" height="30" width="40" /></a>
