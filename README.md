@@ -42,15 +42,14 @@
 
  ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&bg_color=000000&color=ffffff&line=00ff00&point=403d3d&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&bg_color=000000&color=ffffff&line=00ff00&point=403d3d&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
