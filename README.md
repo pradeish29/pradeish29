@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there 👋 This is Pradeish Misara </h1>
+<h1 align="center"> Hi there 👋 This is Pradeish Misara R </h1>
 
 
 ## Profile Visit
