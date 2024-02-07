@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi there 👋 This is Pradeish Misara R </h1>
 
 
