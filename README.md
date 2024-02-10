@@ -20,7 +20,7 @@
 
 # 💻 Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,java,python,c,git&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,bootstrap,js,java,python,c,git&perline=5" alt="Tech Stack" /> 
 
 
 # 📊 GitHub Stats:
