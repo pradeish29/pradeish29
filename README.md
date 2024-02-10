@@ -29,6 +29,9 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,java,python,c,git&perline=5" alt="Tech Stack" /> 
+
+
 # 📊 GitHub Stats:
 <div class='container'>
 <img style="height:auto ; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github&include_all_commits=true" />
