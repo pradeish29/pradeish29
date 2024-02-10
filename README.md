@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 This is Pradeish Misara R </h1>
+<h1 align="center"> வணக்கம்!👋 This is Pradeish Misara </h1>
 
 
 
@@ -6,16 +6,13 @@
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
 
 ---
-- 🔭 I’m currently working on React js
-- 🌱 I’m currently learning Java programming
-- 💬 Ask me about Frontend dev and Problem Solving
+- 🔭 I’m currently working on: React js
+- 🌱 I’m currently learning: Java programming
+- 💬 Ask me about: Frontend devepolment and Problem Solving
 - 📫 How to reach me: pradeishmisara29@gmail.com
- <!--
-- 
-- ⚡ Fun fact: ...  
-👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
--->
+- ⚡ Fun fact: 
+- 👯 I’m looking to collaborate on : Cloud Services and Machine learning 
+- 🤔 I’m looking for help with: App development
 
 
 
