@@ -1,4 +1,3 @@
-
 <h1 align="center"> வணக்கம்!👋 This is Pradeish Misara </h1>
 
 
