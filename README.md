@@ -1,7 +1,5 @@
 <h1 align="center"> வணக்கம்!👋 This is Pradeish Misara </h1>
 
-
-
 ## Profile Visit
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
 
