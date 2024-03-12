@@ -25,7 +25,7 @@
 
 
 # 📊 GitHub Stats:
-<div class='container'>
+
 <img style="height:auto ; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github&include_all_commits=true" />
 &nbsp;
 <!-- <img style="height:auto; width: 40%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=dark&font=Jura" /> -->
