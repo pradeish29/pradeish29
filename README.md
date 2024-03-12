@@ -1,4 +1,5 @@
-<img src="https://github.com/pradeish29/pradeish29/header.png" />
+![Streamlit Page](https://github.com/pradeish29/pradeish29/blob/main/header.jpg)
+
 
 <h1 align="center"> வணக்கம்!👋 This is Pradeish Misara </h1>
 
