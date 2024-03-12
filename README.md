@@ -21,9 +21,11 @@
 ---
 
 # 💻 Tech Stack:
-
+<p align="center">
+  <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask&perline=6" alt="Tech Stack" /> 
-
+ </a>
+</p>
 
 # 📊 GitHub Stats:
 
