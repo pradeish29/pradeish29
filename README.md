@@ -25,7 +25,7 @@
 
 
 # 📊 GitHub Stats:
-
+<div class='container'>
 <img style="height:auto ; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github&include_all_commits=true" />
 &nbsp;
 <!-- <img style="height:auto; width: 40%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=dark&font=Jura" /> -->
@@ -39,7 +39,7 @@
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
-![gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
 <!--
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
