@@ -36,11 +36,12 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/pradeish29/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/pradeish29/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/pradeish29/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/pradeish29/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/pradeish29/master/profile-summary-card-output/solarized/4-productive-time.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeish29&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeish29&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeish29&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeish29&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeish29&theme=radical&utcOffset=8)
+
 
 </div>
 
