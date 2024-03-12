@@ -1,5 +1,7 @@
 ![header](https://github.com/pradeish29/pradeish29/blob/main/header.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+folks)](https://git.io/typing-svg)
+
 ## Profile Visit
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
 
