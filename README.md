@@ -42,6 +42,8 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Pradeish%20Misara%20❤️&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <!--
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
