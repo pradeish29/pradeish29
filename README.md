@@ -2,7 +2,7 @@
 
 ## Profile Visit
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
-[![gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
 
 
 
@@ -38,7 +38,7 @@
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
-
+[![gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 <!--
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
