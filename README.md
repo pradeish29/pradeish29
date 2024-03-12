@@ -40,6 +40,7 @@
 <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
+![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <!--
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
