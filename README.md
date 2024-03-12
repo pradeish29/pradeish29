@@ -34,11 +34,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div class='container'>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
 
-<!-- real time -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
 
 ![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <!--
