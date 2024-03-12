@@ -26,13 +26,6 @@
 
 
 # 📊 GitHub Stats:
-<div class='container'>
-<img style="height:auto ; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github&include_all_commits=true" />
-&nbsp;
-<img style="height: 75%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=donut" />
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=gotham&hide_border=false"/>
- &nbsp;
- <!-- <img style="height:auto; width: 40%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=dark&font=Jura" /> -->
 
 <div align="center">
 
@@ -42,14 +35,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeish29&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeish29&theme=radical&utcOffset=8)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=radical)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 
  ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
@@ -81,8 +74,16 @@ colour line
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
 </div>
 
+<div class='container'>
+<img style="height:auto ; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pradeish29&show_icons=true&theme=gotham&rank_icon=github&include_all_commits=true" />
+&nbsp;
+<img style="height: 75%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&langs_count=8&layout=donut" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=gotham&hide_border=false"/>
+ &nbsp;
+ <!-- <img style="height:auto; width: 40%;" class="img" src="https://leetcard.jacoblin.cool/Pradeish29?theme=dark&font=Jura" /> -->
 
-https://github.com/ashutosh00710/github-readme-activity-graph
+
+<!--https://github.com/ashutosh00710/github-readme-activity-graph
 ![](https://github-readme-stats.vercel.app/api?username=pradeish29&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
