@@ -1,7 +1,5 @@
 ![header](https://github.com/pradeish29/pradeish29/blob/main/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+folks!)](https://git.io/typing-svg)
-
 ## Profile Visit
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
 
@@ -9,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on: React js
+- 🔭 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+currently+working+on:+React+js)](https://git.io/typing-svg)
 - 🌱 I’m currently learning: Java programming
 - 💬 Ask me about: Frontend devepolment and Problem Solving
 - 📫 How to reach me: pradeishmisara29@gmail.com
