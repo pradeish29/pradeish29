@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+currently+working+on:+React+js)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+currently+working+on:+React+js)](https://git.io/typing-svg)<br>
 - 🌱 I’m currently learning: Java programming
 - 💬 Ask me about: Frontend devepolment and Problem Solving
 - 📫 How to reach me: pradeishmisara29@gmail.com
