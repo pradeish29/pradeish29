@@ -7,8 +7,8 @@
 
 ![gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
-
 ---
+
 - 🔭 I’m currently working on: React js
 - 🌱 I’m currently learning: Java programming
 - 💬 Ask me about: Frontend devepolment and Problem Solving
@@ -17,15 +17,13 @@
 - 👯 I’m looking to collaborate on : Cloud Services and Machine learning 
 - 🤔 I’m looking for help with: App development
 
-![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 ---
 
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask" alt="Tech Stack" /> 
- </a>
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask" alt="Tech Stack" /> 
+  </a>
 </p>
 
 # 📊 GitHub Stats:
@@ -53,6 +51,9 @@
 
 colour line
 ![gif](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+mario gif
+![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
 
