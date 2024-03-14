@@ -1,5 +1,3 @@
-![header](https://github.com/pradeish29/pradeish29/blob/main/header.png)
-
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pradeish%20Misara%20R&desc=வணக்கம்%20👋%20I'm&descAlignY=27&descAlign=65&descSize=35)
 
@@ -53,6 +51,11 @@
 
 
 <!--
+
+header image
+![header](https://github.com/pradeish29/pradeish29/blob/main/header.png)
+
+
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
 
 colour line
