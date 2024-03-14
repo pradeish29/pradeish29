@@ -46,7 +46,7 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Made%20with%20❤️&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+
 
 <!--
 ![](https://komarev.com/ghpvc/?username=pradeish29&style=flat&base=537&color=brightgreen)
@@ -56,6 +56,9 @@ colour line
 
 mario gif
 ![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+floating svg gif
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Made%20with%20❤️&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 
 
