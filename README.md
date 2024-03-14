@@ -1,5 +1,7 @@
 ![header](https://github.com/pradeish29/pradeish29/blob/main/header.png)
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pradeish+Misara!&fontAlign=80&fontAlignY=40&color=gradient)
+
 ## Profile Visit
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
 
