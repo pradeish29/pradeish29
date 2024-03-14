@@ -12,7 +12,7 @@
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&lines=💭+Ask+me+about:+Frontend+devepolment+and+Problem+Solving)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&lines=👯+I’m+looking+to+collaborate+on:+Cloud+Services+and+Machine+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&lines=👯+I’m+looking+to+collaborate+on:+Cloud+Machine+learning)](https://git.io/typing-svg)
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&lines=🤔+I’m+looking+for+help+with:+App+development)](https://git.io/typing-svg)
 <br/>
