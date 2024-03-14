@@ -1,7 +1,7 @@
 ![header](https://github.com/pradeish29/pradeish29/blob/main/header.png)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pradeish%20Misara%20R&descAlign=65&reversal=true&fontColor=000&textBg=false&fontAlign=50&section=header&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pradeish%20Misara%20R&descAlign=65&reversal=true&textBg=false&fontAlign=50&section=header&fontAlignY=45)
 
 
 ## Profile Visit
