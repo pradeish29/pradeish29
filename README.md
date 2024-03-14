@@ -6,9 +6,13 @@
 ![gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+currently+working+on:+React+js)](https://git.io/typing-svg)<br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=;I’m+currently+learning:+Java+programming)](https://git.io/typing-svg)
-- 💬 Ask me about: Frontend devepolment and Problem Solving
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+currently+working+on:+React+js)](https://git.io/typing-svg)
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+currently+learning:+Java+programming)](https://git.io/typing-svg)
+
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ask+me+about:+Frontend+devepolment+and+dProblem+Solving)](https://git.io/typing-svg)
+- 💬 
 - 📫 How to reach me: pradeishmisara29@gmail.com
 - ⚡ Fun fact: I'm learning hindi 
 - 👯 I’m looking to collaborate on : Cloud Services and Machine learning 
