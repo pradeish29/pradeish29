@@ -1,8 +1,8 @@
 ![header](https://github.com/pradeish29/pradeish29/blob/main/header.png)
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pradeish%20Misara%20R&descAlign=65&reversal=true&fontColor=000&textBg=false&fontAlign=50&section=header&fontAlignY=45)
 
-![waving]([https://capsule-render.vercel.app/api?type=waving&height=200&text=Pradeish+Misara!&fontAlign=80&fontAlignY=40&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pradeish%20Misara%20R&descAlign=65&reversal=true&fontColor=000&textBg=false&fontAlign=50&section=header&fontAlignY=45))
 
 ## Profile Visit
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
