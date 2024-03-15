@@ -21,12 +21,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=⚡+Fun+fact:+I'm+learning+hindi)](https://git.io/typing-svg)
 <br/>
 
----
 
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,sass,bootstrap,js,java,python,c,git,flask" alt="Tech Stack" /> 
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,bootstrap,sass,java,python,c,git,flask" alt="Tech Stack" /> 
   </a>
 </p>
 
