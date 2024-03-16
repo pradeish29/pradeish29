@@ -107,5 +107,5 @@ floating svg gif
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/pradeish29/pradeish29/blob/output/github-contribution-grid-snake.gif)
+
 
