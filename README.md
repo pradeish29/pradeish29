@@ -9,6 +9,7 @@
 
 ---
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🔭+I’m+currently+working+on:+React+js)](https://git.io/typing-svg)
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🌱+I’m+currently+learning:+Java+programming)](https://git.io/typing-svg)
