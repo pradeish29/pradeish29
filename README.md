@@ -46,10 +46,12 @@
 </div>
 
  ---
-
+ 
+<div align="center">
+  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
 
-
+</div>
 
 
 <!--
