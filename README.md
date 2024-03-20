@@ -22,7 +22,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=⚡+Fun+fact:+I'm+learning+hindi)](https://git.io/typing-svg)
 <br/>
 
-
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
