@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pradeish%20Misara%20R&desc=வணக்கம்%20👋%20I'm&descAlignY=27&descAlign=65&descSize=35)
 
 
-
 ## Profile Visit
 <img src="https://profile-counter.glitch.me/{pradeish29}/count.svg" alt="pradeish29 :: Visitor's Count" />
 
 ![gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🔭+I’m+currently+working+on:+React+js)](https://git.io/typing-svg)
 <br/>
@@ -22,12 +21,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=⚡+Fun+fact:+I'm+learning+hindi)](https://git.io/typing-svg)
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,bootstrap,sass,java,python,c,git,flask" alt="Tech Stack" /> 
   </a>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 # 📊 GitHub Stats:
 
@@ -43,11 +49,15 @@
 
 </div>
 
- ---
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+ 
  
 <div align="center">
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
+
+
+<img width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 </div>
 
