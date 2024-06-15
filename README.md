@@ -41,9 +41,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeish29&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeish29&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeish29&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=donut)
-![](https://leetcard.jacoblin.cool/Pradeish29?height=200)
 ![](https://github-readme-stats.vercel.app/api?username=pradeish29&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pradeish29&theme=github_dark&hide_border=true)
+![](https://leetcard.jacoblin.cool/Pradeish29?height=200)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
