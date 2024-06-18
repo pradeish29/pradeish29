@@ -24,15 +24,14 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,bootstrap,tailwind,java,python,c,git,flask,firebase,postgres,mysql" alt="Tech Stack" /> 
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,bootstrap,tailwind,java,python,c,git,flask,firebase,postgres,mysql" alt="Tech Stack" /> 
+</a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 📊 GitHub Stats:
-
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeish29&theme=github_dark)
@@ -44,16 +43,13 @@
 ![](https://leetcard.jacoblin.cool/Pradeish29?height=200)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeish29&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 </div>
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
  
- 
 <div align="center">
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=gHlCyn6rRr2KVsGYwFFD3A)
-
 
 <img width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
