@@ -7,17 +7,17 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🔭+I’m+currently+working+on:+React+js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🔭+I’m+currently+working+on:+React+js+&+Firebase)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🌱+I’m+currently+learning:+Java+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🌱+I’m+currently+learning:+Java+programming+&+SQL)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=💭+Ask+me+about:+Frontend+and+Problem+Solving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=💭+Ask+me+about:+Web+development+and+Problem+Solving)](https://git.io/typing-svg)
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=👯+I’m+looking+to+collaborate+on:+Machine+learning)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🤔+I’m+looking+for+help+with:+App+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🤔+I’m+looking+for+help+with:+Competitive+Programming)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=⚡+Fun+fact:+I'm+learning+hindi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=⚡+Fun+fact:+If+Tower+of+Pisa+was+a+font+it'll+be+Italic)](https://git.io/typing-svg)
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
