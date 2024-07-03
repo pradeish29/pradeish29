@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=👯+I’m+looking+to+collaborate+on:+Machine+learning)](https://git.io/typing-svg)
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🤔+I’m+looking+for+help+with:+Competitive+Programming)](https://git.io/typing-svg)
-<br/>
+<br/> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=⚡+Fun+fact:+If+Pisa+Tower+was+a+font+it'll+be+Italic)](https://git.io/typing-svg)
 <br/>
 
