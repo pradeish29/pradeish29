@@ -7,27 +7,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🔭+I’m+currently+working+on:+React+js+&+Firebase)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🔭+I’m+currently+working+on:+SAP+ABAP)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🌱+I’m+currently+learning:+Java+programming+&+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🌱+I’m+currently+learning:Integrating+SAP+to+Full+Stack)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=💭+Ask+me+about:+Web+development+and+Problem+Solving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=💭+Ask+me+about:+FullStack+Development+and+SAP)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=👯+I’m+looking+to+collaborate+on:+Machine+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=👯+I’m+looking+to+collaborate+on:+SAP)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🤔+I’m+looking+for+help+with:+Competitive+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🤔+I’m+looking+for+help+with:+SAP+Modules)](https://git.io/typing-svg)
 <br/>  
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=⚡+Fun+fact:+If+Pisa+Tower+was+a+font+it'll+be+Italic)](https://git.io/typing-svg)
-<br/>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 💻 Tech Stack:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,nodejs,mongodb,figma" alt="Tech Stack" /> 
-<img src="https://skillicons.dev/icons?i=java,python,c,git,flask,firebase,postgres,mysql" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js,bootstrap,nodejs,express,mongodb,figma" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=java,python,c,git,flask,firebase,postgres,mysql,sap" alt="Tech Stack" /> 
 </a>
 </p>
 
