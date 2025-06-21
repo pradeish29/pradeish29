@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🔭+I’m+currently+working+on:+SAP+ABAP)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🌱+I’m+currently+learning:Integrating+SAP+to+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=🌱+I’m+currently+learning:Integrating+SAP+to+FullStack)](https://git.io/typing-svg)
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?repeat=false&width=600&color=00ff2b&lines=💭+Ask+me+about:+FullStack+Development+and+SAP)](https://git.io/typing-svg)
 <br/>
